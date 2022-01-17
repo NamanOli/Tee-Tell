@@ -8,9 +8,6 @@
 * ADMINISTRATION
 * Payment Gateway
 
-# DEMO
-[preview the app](https://e-com-1.herokuapp.com/)
-
 # Screenshots
 ![image](https://user-images.githubusercontent.com/53824950/149716901-cc2bed82-9d5d-478d-a336-b4b86b50e6a5.png)
 ![image](https://user-images.githubusercontent.com/53824950/149716983-2d685735-3922-4471-9417-a55a7d849386.png)
