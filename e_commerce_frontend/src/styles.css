@@ -1,0 +1,27 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background:black;
+}
+
+.nav-item:hover {
+  font-size:larger;
+  border-bottom: 1px solid white;
+}
+
+.test:hover{
+  background-color: yellow;
+}
+
+/* .responsive{
+  font-size:3vw
+} */
+
+.braintree-placeholder{
+  display: none;
+}
+
